@@ -1,3 +1,3 @@
 # satelliteDynamics
 
-Code for Dynamics and Kinematics propogation over time of the Attitude Matrix of the satellite. 
+Code for Dynamics and Kinematics propogation over time of the Attitude Matrix of the satellite using quaternion parameterization. 
